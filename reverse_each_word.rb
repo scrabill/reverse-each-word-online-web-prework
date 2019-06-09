@@ -5,11 +5,11 @@
 def reverse_each_word(string)
   array = string.split
 
-  # array is ["Just", "eat", "more"] 
+  # array is ["Just", "eat", "more"]
 
-  # array.each do |array|
-  #   puts array.reverse
-  # end
+  array.each do |array|
+    puts array.reverse
+  end
 
 end
 
