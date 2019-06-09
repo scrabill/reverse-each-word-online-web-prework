@@ -6,7 +6,7 @@ def reverse_each_word(string)
   array = string.split
 
   array.each do |array|
-    puts string.reverse.split.reverse.join(" ")
+    puts array.reverse.splkit.
   end
 
 end
