@@ -7,9 +7,9 @@ def reverse_each_word(string)
 
   puts array
 
-  array.each do |array|
-    puts array.reverse
-  end
+  # array.each do |array|
+  #   puts array.reverse
+  # end
 
 end
 
