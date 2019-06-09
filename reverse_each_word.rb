@@ -21,9 +21,7 @@ def reverse_each_word(string)
 #   x.reverse.join(" ")
 # end
 
-  string.split.collect do |x|
-    x.reverse
-  end
+
 
 end
 
